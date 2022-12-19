@@ -30,8 +30,6 @@ Console.WriteLine(line1);
 Console.WriteLine(line2);
 Console.WriteLine(line1.Intersect(line2));
 
-Console.ReadLine();
-
  /// <summary>Класс точки.</summary>
     public class Point : IEquatable<Point>
     {
